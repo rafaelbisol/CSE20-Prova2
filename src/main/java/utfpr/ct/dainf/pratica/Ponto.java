@@ -1,4 +1,4 @@
-package utfpr.ct.dainf.if62c.projeto;
+package utfpr.ct.dainf.pratica;
 
 /**
  * UTFPR - Universidade Tecnológica Federal do Paraná

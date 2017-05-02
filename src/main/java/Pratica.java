@@ -4,7 +4,7 @@
  * 
  * @author 
  */
-public class Projeto1 {
+public class Pratica {
 
     public static void main(String[] args) {
 
