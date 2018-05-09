@@ -7,7 +7,7 @@ package utfpr.ct.dainf.pratica;
 
 /**
  *
- * @author Residente
+ * @author
  */
 public class PontoXZ extends Ponto2D{
     

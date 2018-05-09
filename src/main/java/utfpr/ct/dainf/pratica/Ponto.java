@@ -59,7 +59,7 @@ public class Ponto {
         double dify = this.getY()-p.getY();
         double difz = this.getZ()-p.getZ();
         
-        double dist = sqrt(  pow(difx, 2) + pow(dify, 2) + pow(difz, 2)  );
+        double dist = sqrt(pow(difx, 2) + pow(dify, 2) + pow(difz, 2));
         return dist;
     }
 }

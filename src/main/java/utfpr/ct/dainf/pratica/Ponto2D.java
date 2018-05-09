@@ -7,7 +7,7 @@ package utfpr.ct.dainf.pratica;
 
 /**
  *
- * @author Residente
+ * @author
  */
 public abstract class Ponto2D extends Ponto {
     public Ponto2D(){
